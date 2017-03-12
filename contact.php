@@ -65,27 +65,27 @@
 					        </div>
 					        <div class="col-md-6 company-right wow fadeInLeft" data-wow-delay="0.4s">
 					        	<div class="contact-map">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1578265.0941403757!2d-98.9828708842255!3d39.41170802696131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited+States!5e0!3m2!1sen!2sin!4v1407515822047"> </iframe>
+			<iframe src="https://goo.gl/maps/Tj2v3k6ttyA2"> </iframe>
 		</div>
       
 	  <div class="company-right">
 					        	<div class="company_ad">
 							     		<h3>Contact Info</h3>
-							     		<span>Lorem ipsum dolor sit amet, consectetur adipiscing elit velit justo.</span>
 			      						<address>
-											 <p>email:<a href="mailto:info@example.com">info@display.com</a></p>
-											 <p>phone:  +255 55 55 777</p>
-									   		<p>28-7-169, 2nd Ave South</p>
-									   		<p>Saskabush, SK   S7M 1T6</p>
+											 <p>Email :<a href="mailto:info@example.com">foodcuboofficial@gmail.com</a></p>
+											 <p>Phone : 7903165083</p>
+									   		<p>146 Harijan Colony Grand Appartment Nehar Nagar	</p>
+									   		<p>Boring Road Patna</p>
+									   		<p>Pincde - 8000001</p>
 									 	 	
 							   			</address>
 							   		</div>
 									</div>	
 									<div class="follow-us">
-										<h3>follow us on</h3>
-										<a href="#"><i class="facebook"></i></a>
-										<a href="#"><i class="twitter"></i></a>
-										<a href="#"><i class="google-pluse"></i></a>
+										<h3>Follow us on</h3>
+										<a href="https://facebook.com/foodcubo"><i class="facebook"></i></a>
+										<a href="https://twitter.com/@foodcubo"><i class="twitter"></i></a>
+										<a href="https://plus.google.com/u/0/110532383341903764214"><i class="google-pluse"></i></a>
 									</div>
 			
 							

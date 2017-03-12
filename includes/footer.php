@@ -5,11 +5,11 @@
 						<h4>About FoodCubo</h4>
 						<ul>
 							<li><i class="point"></i></li>
-							<li class="data"><a href="aboutus.php" target="_blank">About Us</a></li>
+							<li class="data"><a href="https://facebook.com/foodcubo" target="_blank">About Us</a></li>
 						</ul>
 						<ul>
 							<li><i class="point"></i></li>
-							<li class="data"><a href="http://foodcubo.com/blog" target="_blank">Blog</a></li>
+							<li class="data"><a href="http://facebook.com/foodcuboblog" target="_blank">Blog</a></li>
 						</ul>
 						<ul>
 							<li><i class="point"></i></li>
@@ -62,7 +62,7 @@
 						<h4>Subscribe Newsletter</h4>
 						<p>To get latest updates and food deals every week</p>
 						<input type="text" class="text" value="" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = '';}">
-						<input type="submit" value="submit">
+						<input type="submit" value="submit" onclick="alert('Thanks For subscription.');">
 						</div>
 					<div class="clearfix"></div>
 				</div>

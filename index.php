@@ -106,8 +106,8 @@ if($_GET['q']=="registered")
 									<img src="images/p1.jpg" class="img-responsive" alt=""/>
 								</div>
 								<div class="offer-text">
-									<h4>Olister Combo pack lorem</h4>
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+									<h4>Olister Combo</h4>
+									<p>It's delicious grab it. </p>
 									<input type="button" value="Grab It">
 									<span></span>
 								</div>
@@ -120,8 +120,8 @@ if($_GET['q']=="registered")
 									<img src="images/p2.jpg" class="img-responsive" alt=""/>
 								</div>
 								<div class="offer-text">
-									<h4>Chicken Jumbo pack lorem</h4>
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+									<h4>Chicken Jumbo</h4>
+									<p>It's delicious grab it. </p>
 									<input type="button" value="Grab It">
 									<span></span>
 								</div>
@@ -134,8 +134,8 @@ if($_GET['q']=="registered")
 									<img src="images/p1.jpg" class="img-responsive" alt=""/>
 								</div>
 								<div class="offer-text">
-									<h4>Crab Combo pack lorem</h4>
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+									<h4>Crab Combo</h4>
+									<p>It's delicious grab it </p>
 									<input type="button" value="Grab It">
 									<span></span>
 								</div>
@@ -149,8 +149,8 @@ if($_GET['q']=="registered")
 									<img src="images/p2.jpg" class="img-responsive" alt=""/>
 								</div>
 								<div class="offer-text">
-									<h4>Chicken Jumbo pack lorem</h4>
-									<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </p>
+									<h4>Chicken Jumbo</h4>
+									<p>It's delicious grab it. </p>
 									<input type="button" value="Grab It">
 									<span></span>
 								</div>
@@ -230,35 +230,35 @@ if($_GET['q']=="registered")
 					<div class="top-cuisine-grids">
 						<div class="top-cuisine-grid wow bounceIn" data-wow-delay="0.4s">
 						    <a href="#"><img src="images/cuisine1.jpg" class="img-responsive" alt="" /> </a>
-							<label>Cuisine Name</label>
+							<label>Cashew Pizza</label>
 					    </div>
 						<div class="top-cuisine-grid wow bounceIn" data-wow-delay="0.4s">
 						    <a href="#"><img src="images/cuisine2.jpg" class="img-responsive" alt="" /> </a>
-							<label>Cuisine Name</label>
+							<label>Burger</label>
 					    </div>
 						<div class="top-cuisine-grid wow bounceIn" data-wow-delay="0.4s">
 						    <a href="#"><img src="images/cuisine3.jpg" class="img-responsive" alt="" /> </a>
-							<label>Cuisine Name</label>
+							<label>Hot Dog</label>
 					    </div>
 						<div class="top-cuisine-grid nth-grid wow bounceIn" data-wow-delay="0.4s">
 						    <a href="#"><img src="images/cuisine4.jpg" class="img-responsive" alt="" /> </a>
-							<label>Cuisine Name</label>
+							<label>Salaad</label>
 					    </div>
 						<div class="top-cuisine-grid nth-grid1 wow bounceIn" data-wow-delay="0.4s">
 						    <a href="#"><img src="images/cuisine5.jpg" class="img-responsive" alt="" /> </a>
-							<label>Cuisine Name</label>
+							<label>FrenchJumboo Pack</label>
 					    </div>
 						<div class="top-cuisine-grid nth-grid1 wow bounceIn" data-wow-delay="0.4s">
 						    <a href="#"><img src="images/cuisine6.jpg" class="img-responsive" alt="" /> </a>
-							<label>Cuisine Name</label>
+							<label>Cream Buns</label>
 					    </div>
 						<div class="top-cuisine-grid nth-grid1 wow bounceIn" data-wow-delay="0.4s">
 						    <a href="#"><img src="images/cuisine7.jpg" class="img-responsive" alt="" /> </a>
-							<label>Cuisine Name</label>
+							<label>Chesse Pizza</label>
 					    </div>
 						<div class="top-cuisine-grid nth-grid nth-grid1 wow bounceIn" data-wow-delay="0.4s">
 						    <a href="#"><img src="images/cuisine8.jpg" class="img-responsive" alt="" /> </a>
-							<label>Cuisine Name</label>
+							<label>Mimic Dish</label>
 					    </div>
 						<div class="clearfix"></div>
 					</div>

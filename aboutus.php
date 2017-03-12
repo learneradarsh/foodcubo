@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Foodcubo || ContactUs</title>
+<title>Foodcubo || AboutUs</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -49,7 +49,7 @@
 			 			<div class="row">
        <div class="col-md-4 thumbnail">
          <img class="img-circle" src="images/" alt="Generic placeholder image" width="140" height="140" style="margin-top: 28px">
-         <h2 align="center">Sanu</h2>
+         <h2 align="center">Shanu Kumar</h2>
          <p style="text-align:justify" margin-left=5px:margin-right=5px>
          	Founder
          </p>

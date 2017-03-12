@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Foodcubo || ContactUs</title>
+<title>Foodcubo || Registration Deals</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -111,10 +111,10 @@
       
 	  
 									<div class="follow-us">
-										<h3>follow us on</h3>
-										<a href="#"><i class="facebook"></i></a>
-										<a href="#"><i class="twitter"></i></a>
-										<a href="#"><i class="google-pluse"></i></a>
+										<h3>Follow us on</h3>
+										<a href="https://facebook.com/foodcubo"><i class="facebook"></i></a>
+										<a href="https://twitter.com/@FoodCubo1"><i class="twitter"></i></a>
+										<a href="https://plus.google.com/u/0/110532383341903764214"><i class="google-pluse"></i></a>
 									</div>
 			
 							
