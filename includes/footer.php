@@ -13,7 +13,7 @@
 						</ul>
 						<ul>
 							<li><i class="point"></i></li>
-							<li class="data"><a href="#" target="_blank">Careers</a></li>
+							<li class="data"><a href="careers.php" target="_blank">Careers</a></li>
 						</ul>
 						
 					</div>
