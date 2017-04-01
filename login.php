@@ -50,7 +50,7 @@
                     </li>
                 </ul>
                 <ul class="previous">
-                	<li><a href="index-2.php">Back to Previous Page</a></li>
+                	<li><a href="index.php">Back to Previous Page</a></li>
                 </ul>
                 <div class="clearfix"></div>
 			   </div>
