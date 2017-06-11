@@ -16,6 +16,32 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
+-- Table structure for table `bookus`
+--
+
+DROP TABLE IF EXISTS `bookus`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `bookus` (
+  `name` varchar(200) NOT NULL,
+  `bookid` int(10) NOT NULL AUTO_INCREMENT,
+  `booktpe` varchar(200) NOT NULL,
+  `contact` varchar(12) NOT NULL,
+  `budget` int(10) NOT NULL,
+  PRIMARY KEY (`bookid`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `bookus`
+--
+
+LOCK TABLES `bookus` WRITE;
+/*!40000 ALTER TABLE `bookus` DISABLE KEYS */;
+/*!40000 ALTER TABLE `bookus` ENABLE KEYS */;
+UNLOCK TABLES;
+
+--
 -- Table structure for table `contact_us`
 --
 
@@ -203,4 +229,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2017-06-11 15:28:44
+-- Dump completed on 2017-06-11 20:09:25

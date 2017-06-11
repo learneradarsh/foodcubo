@@ -33,6 +33,7 @@
 						<li class="active"><a href="index.php" class="scroll">Home</a></li>
 						<li><a href="restaurants.php">Restaurants with Us</a></li>|
 						<li><a href="order.php">Order</a></li>|
+						<li><a href="bookus.php">Book Us</a></li>|
 						<li><a href="contact.php">contact</a></li>
 						<div class="clearfix"></div>
 					</ul>
