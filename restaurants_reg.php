@@ -87,7 +87,7 @@
 			 				*Order Rate Policy ensures that no restaurant is charged for the orders recieved from Food Cubo until and unless it crosses the threshold of 12 orders per day
 			 				</h6>
 			 				
-							  <form method="POST" action="includes/register.php" enctype="multipart-formdata">
+							  <form method="POST" action="res_reg_script.php" enctype="multipart-formdata">
 								 <div class="form-group">
 					                 <input type="text" class="form-control" placeholder="Restaurant Name" name="res_name" required="required"/>
 						          </div>

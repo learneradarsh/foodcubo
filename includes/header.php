@@ -4,11 +4,11 @@
 			<div class="top-header">
 
 				<div class="logo">
-					<a href="index.php"><center><h1>Food Cubo </h1></center></a>
-					<p class="text-center"><center><h5>Experience yourself inside a Cube of Food!</h5></center></p>
+					<a href="index.php"><center><a href="index.php"><img src="images/food.png" style="width: 120px; height: 70px; position: absolute; left: 0px; top: 20px;" alt=""></a>&nbsp;&nbsp;<h1>Foodcubo</h1></center></a>
+					<p class="text-center"><center><h5>&nbsp;&nbsp;&nbsp;&nbsp;Experience yourself inside a Cube of Food!</h5></center></p>
 
 				</div>
-				<a href="index.php"><img src="images/food.png" style="width: 120px; height: 70px; position: absolute; left: 0px; top: 20px;" alt=""></a>
+				
 				<div class="queries">
 					<p>Questions? Ping Us<span>9430256286/9334077555</span><label></label></p>
 
@@ -40,7 +40,8 @@
 				<div class="login-section">
 					<ul>
 						<li><a href="login.php">Login</a>  </li> |
-						<li><a href="restaurants_reg.php">Register</a> </li> |
+						<li><a href="restaurants_reg.php">Register As a Restaurant</a> </li> |
+						<li><a href="register.php">Register As a User</a> </li> |
 						<div class="clearfix"></div>
 					</ul>
 				</div>

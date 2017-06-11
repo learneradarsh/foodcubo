@@ -5,15 +5,15 @@
 						<h4>About FoodCubo</h4>
 						<ul>
 							<li><i class="point"></i></li>
-							<li class="data"><a href="aboutus.php" target="_blank">About Us</a></li>
+							<li class="data"><a href="aboutus.php">About Us</a></li>
 						</ul>
 						<ul>
 							<li><i class="point"></i></li>
-							<li class="data"><a href="http://foodcubo.blogspot.in/" target="_blank">Blog</a></li>
+							<li class="data"><a href="http://foodcubo.com/blog" target="_blank">Blog</a></li>
 						</ul>
 						<ul>
 							<li><i class="point"></i></li>
-							<li class="data"><a href="careers.php" target="_blank">Careers</a></li>
+							<li class="data"><a href="careers.php">Careers</a></li>
 						</ul>
 						
 					</div>
@@ -21,7 +21,7 @@
 						<h4>For Restaurants</h4>
 						<ul>
 							<li><i class="point"></i></li>
-							<li class="data"><a href="restaurants_reg.php" target="_blank">Add a Restaurant</a></li>
+							<li class="data"><a href="restaurants_reg.php">Add a Restaurant</a></li>
 						</ul>
 						<ul>
 							<li><i class="point"></i></li>
@@ -29,7 +29,7 @@
 						</ul>
 						<ul>
 							<li><i class="point"></i></li>
-							<li class="data"><a href="contact.php" target="_blank">Contact</a></li>
+							<li class="data"><a href="contact.php">Contact</a></li>
 						</ul>
 
 					</div>

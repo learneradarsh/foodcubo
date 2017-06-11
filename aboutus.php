@@ -50,24 +50,30 @@
        <div class="col-md-4 thumbnail">
          <img class="img-circle" src="images/shanu.jpg" alt="Generic placeholder image" width="140" height="110" style="margin-top: 28px">
          <h2 align="center">Shanu Kumar</h2>
-         <p style="text-align:justify" margin-left=5px:margin-right=5px>
-         	CFO
+         
+        <h1> 	CFO</h1>
+         <p>
+         Hey,I'm Shanu,CFO of Foodcubo always ready to serve you.
          </p>
          <p><a class="btn btn-default" href="https://www.linkedin.com/in/shanu-kumar-10759213a" role="button" target="_blank">View details &raquo;</a></p>
        </div><!-- /.col-lg-4 -->
        <div class="col-md-4 thumbnail" >
          <img class="img-circle" src="images/rohit.jpg" alt="Generic placeholder image" width="140" height="140">
          <h2 align="center">Rohit Kashyap</h2>
-         <p>
-         	CEO
-         </p>
+         
+         	<h1>CEO</h1>
+   <p>
+   Hey,I'm Rohit,CEO of Foodcubo always ready to serve you.
+   </p>
          <p><a class="btn btn-default" href="https://www.linkedin.com/in/rohit-kashyap-464773131" role="button" target="_blank">View details &raquo;</a></p>
        </div><!-- /.col-lg-4 -->
        <div class="col-md-4 thumbnail" >
          <img class="img-circle" src="images/aditya.jpg" alt="Generic placeholder image" width="140" height="140">
          <h2 align="center">Aditya</h2>
+         
+         	<h1>COO</h1>
          <p>
-         	COO
+         Hey,I'm Aditya, COO of Foodcubo always ready to serve you.
          </p>
          <p><a class="btn btn-default" href="https://www.linkedin.com/in/aditya-dhanraj-824b3411b/" role="button" target="_blank">View details &raquo;</a></p>
        </div><!-- /.col-lg-4 -->
@@ -77,7 +83,8 @@
 			<div class="col-md-4 thumbnail" >
          <img class="img-circle" src="images/adarsh.jpg" alt="Generic placeholder image" width="140" height="140">
          <h2 align="center">Adarsh Learner</h2>
-         <p>CTO</p>
+         <h1>CTO</h1>
+         <p>Hey,I'm Adarsh Learner, Tech lead of Foodcubo always ready to support you.</p>
          <p><a class="btn btn-default" href="https://learneradarsh.github.io" role="button" target="_blank">View details &raquo;</a></p>
        </div>
        <div class="col-md-4"></div>
