@@ -1,3 +1,3 @@
 <?php
-$con=mysqli_connect('localhost','root','','foodcubo') or die('Error in connection');
+$con=mysqli_connect('localhost','root','123456','foodcubo') or die('Error in connection');
 ?>
