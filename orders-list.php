@@ -35,7 +35,7 @@
 <script src='../../../../ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
 <body>
 
-    <?php include_once 'header.php'; ?>
+    <?php include_once 'includes/header.php'; ?>
 	<!-- content-section-starts -->
 	<div class="orders">
 	<div class="container">

@@ -51,22 +51,23 @@
 			 				
 							  <form method="POST" action="bookus_script.php" enctype="multipart-formdata">
 								 <div class="form-group">
-					                 <input type="text" class="form-control" placeholder="Enter Your Name" name="cust_name" required="required"/>
+					                 <input type="text" class="form-control" placeholder="Enter Your Name" name="name" required="required"/>
 						          </div>
 						          <div class="form-group">
-						          	<select class="form-control" name="fun_type">
+						          	<select class="form-control" name="booktpe">
 						          	<option selected="selected">Select your Function Type</option>
-						          	<option value="mega">Saadi</option>
-						          	<option value="medium">Sagai</option>
-						          	<option value="mini">B'day Party</option>
-						          	<option value="mini">Any Other function</option>
+						          	<option value="weeding">Weeding</option>
+						          	<option value="Birthday">Birthdayday Party</option>
+						          	<option value="fresherparty">Fresher Party</option>
+						          	<option value="Annualfunction">Annual Function</option>
+						          	<option value="other">Other Parties</option>
 						          	</select>
 						          </div>
 						          <div class="form-group">
-						          	<input type="number" class="form-control" name="cust_budget" placeholder="Budget for function" required="required" />
+						          	<input type="number" class="form-control" name="budget" placeholder="Budget for function" required="required" />
 						          </div>
 						          <div class="form-group">
-						          	<input type="tel" class="form-control" name="cust_contact" placeholder="+91" required="required" />
+						          	<input type="tel" class="form-control" name="contact" placeholder="+91" required="required" />
 						          </div>
 						          <button type="submit" class="btn btn-success">Register</button>&nbsp;&nbsp;<button type="reset" class="btn btn-default">Reset</button>
 						       </form>

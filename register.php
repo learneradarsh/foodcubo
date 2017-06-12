@@ -41,20 +41,24 @@
 	<div class="main">
 	   <div class="container">
 		  <div class="register">
-		  	  <form> 
+		  	  <form method="POST" action="user_reg_script.php" enctype="multipart-formdata"> 
 				 <div class="register-top-grid">
 					<h3>PERSONAL INFORMATION</h3>
 					 <div class="wow fadeInLeft" data-wow-delay="0.4s">
-						<span>First Name<label>*</label></span>
-						<input type="text"> 
+						<span>Full Name<label>*</label></span>
+						<input type="text" name="username"> 
 					 </div>
 					 <div class="wow fadeInRight" data-wow-delay="0.4s">
-						<span>Last Name<label>*</label></span>
-						<input type="text"> 
+						<span>Address<label>*</label></span>
+						<input type="text" name="address"> 
 					 </div>
 					 <div class="wow fadeInRight" data-wow-delay="0.4s">
 						 <span>Email Address<label>*</label></span>
-						 <input type="text"> 
+						 <input type="text" name="email"> 
+					 </div>
+					 <div class="wow fadeInRight" data-wow-delay="0.4s">
+						 <span>Contact No.<label>*</label></span>
+						 <input type="text" name="user_contact"> 
 					 </div>
 					 <div class="clearfix"> </div>
 					   <a class="news-letter" href="#">
@@ -65,21 +69,18 @@
 						    <h3>LOGIN INFORMATION</h3>
 							 <div class="wow fadeInLeft" data-wow-delay="0.4s">
 								<span>Password<label>*</label></span>
-								<input type="password">
-							 </div>
-							 <div class="wow fadeInRight" data-wow-delay="0.4s">
-								<span>Confirm Password<label>*</label></span>
-								<input type="password">
+								<input type="password" name="password" required="required">
 							 </div>
 					 </div>
-				</form>
+				
 				<div class="clearfix"> </div>
 				<div class="register-but">
-				   <form>
-					   <input type="submit" value="submit">
+				  
+					   <button type="submit">Register</button>
 					   <div class="clearfix"> </div>
-				   </form>
+				   
 				</div>
+				</form>
 		   </div>
 	     </div>
 	    </div>

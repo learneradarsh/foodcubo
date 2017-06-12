@@ -18,7 +18,7 @@
 							<a href="checkout.php">
 								<h3> <span class="simpleCart_total"> Rs. 0.0 </span> (<span id="simpleCart_quantity" class="simpleCart_quantity"> 0 </span> items)<img src="images/bag.png" alt=""></h3>
 							</a>	
-							<p><a href="javascript:;" class="simpleCart_empty">Empty card</a></p>
+							<p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>
 							<div class="clearfix"> </div>
 						</div>
 					</div>
@@ -30,9 +30,9 @@
 			<div class="container">
 				<div class="top-menu">
 					<ul>
-						<li class="active"><a href="index.php" class="scroll">Home</a></li>
+						<li class="active"><a href="index.php">Home</a></li>
 						<li><a href="restaurants.php">Restaurants with Us</a></li>|
-						<li><a href="order.php">Order</a></li>|
+						<!--li><a href="order.php">Order</a></li>|-->
 						<li><a href="bookus.php">Book Us</a></li>|
 						<li><a href="contact.php">contact</a></li>
 						<div class="clearfix"></div>

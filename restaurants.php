@@ -53,8 +53,7 @@
 						</div>
 					</div>
 					<div class="col-md-7 buy">
-						<span>$45</span>
-						<a class="morebtn hvr-rectangle-in" href="orders-list.php">buy</a>
+						<a class="morebtn hvr-rectangle-in" href="orders-list.php">SHOP FROM HERE</a>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -72,85 +71,7 @@
 						</div>
 					</div>
 					<div class="col-md-7 buy">
-						<span>$45</span>
-						<a class="morebtn hvr-rectangle-in" href="orders-list.php">buy</a>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				<div class="Popular-Restaurants-grid wow fadeInRight" data-wow-delay="0.4s">
-					<div class="col-md-3 restaurent-logo">
-						<img src="images/restaurent-logo3.jpg" class="img-responsive" alt="" />
-					</div>
-					<div class="col-md-2 restaurent-title">
-						<div class="logo-title logo-title-2">
-							<h4><a href="#">Barista</a></h4>
-						</div>
-						<div class="rating">
-							<span>ratings</span>
-							<a href="#"> <img src="images/star1.png" class="img-responsive" alt="">(004)</a>
-						</div>
-					</div>
-					<div class="col-md-7 buy">
-						<span>$45</span>
-						<a class="morebtn hvr-rectangle-in" href="orders-list.php">buy</a>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-				<div class="Popular-Restaurants-grid wow fadeInLeft" data-wow-delay="0.4s">
-					<div class="col-md-3 restaurent-logo">
-						<img src="images/restaurent-logo4.jpg" class="img-responsive" alt="" />
-					</div>
-					<div class="col-md-2 restaurent-title">
-						<div class="logo-title logo-title-3">
-							<h4><a href="#">papa johns</a></h4>
-						</div>
-						<div class="rating">
-							<span>ratings</span>
-							<a href="#"> <img src="images/star2.png" class="img-responsive" alt="">(005)</a>
-						</div>
-					</div>
-					<div class="col-md-7 buy">
-						<span>$45</span>
-						<a class="morebtn hvr-rectangle-in" href="orders-list.php">buy</a>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				<div class="Popular-Restaurants-grid wow fadeInRight" data-wow-delay="0.4s">
-					<div class="col-md-3 restaurent-logo">
-						<img src="images/restaurent-logo5.jpg" class="img-responsive" alt="" />
-					</div>
-					<div class="col-md-2 restaurent-title">
-						<div class="logo-title logo-title-4">
-							<h4><a href="#">Domino's pizza</a></h4>
-						</div>
-						<div class="rating">
-							<span>ratings</span>
-							<a href="#"> <img src="images/star1.png" class="img-responsive" alt="">(004)</a>
-						</div>
-					</div>
-					<div class="col-md-7 buy">
-						<span>$45</span>
-						<a class="morebtn hvr-rectangle-in" href="orders-list.php">buy</a>
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				<div class="Popular-Restaurants-grid wow fadeInLeft" data-wow-delay="0.4s">
-					<div class="col-md-3 restaurent-logo">
-						<img src="images/restaurent-logo6.jpg" class="img-responsive" alt="" />
-					</div>
-					<div class="col-md-2 restaurent-title">
-						<div class="logo-title logo-title-5">
-							<h4><a href="#">kfc</a></h4>
-						</div>
-						<div class="rating">
-							<span>ratings</span>
-							<a href="#"> <img src="images/star2.png" class="img-responsive" alt="">(005)</a>
-						</div>
-					</div>
-					<div class="col-md-7 buy">
-						<span>$45</span>
-						<a class="morebtn hvr-rectangle-in" href="orders-list.php">buy</a>
+						<a class="morebtn hvr-rectangle-in" href="orders-list.php">SHOP FROM HERE</a>
 					</div>
 					<div class="clearfix"></div>
 				</div>

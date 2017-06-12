@@ -50,12 +50,12 @@
 			 				<p>
 			 				Feel free to contact us anytime because we are always ready to serve you.
 			 				</p>
-							  <form method="POST" action="" enctype="multipart-formdata">
+							  <form method="POST" action="contact_script.php" enctype="multipart-formdata">
 								 <div class="form_details">
-					                 <input type="text" class="text" value="Name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="required"/>
-									 <input type="text" class="text" value="Email Address" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email Address';}" required="required"/>
-									 <input type="text" class="text" value="Subject" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Subject';}" required="required"/>
-									 <textarea value="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}" required="required">Message</textarea>
+					                 <input type="text" class="text" name="name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="required"/>
+									 <input type="text" class="text" name="email" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Email Address';}" required="required"/>
+									 <input type="text" class="text" name="subject" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Subject';}" required="required"/>
+									 <textarea name="message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message';}" required="required">Message</textarea>
 									 <div class="clearfix"> </div>
 									 <div class="sub-button wow swing animated" data-wow-delay= "0.4s">
 									 	<input name="submit" type="submit" value="Send message">

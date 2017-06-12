@@ -73,7 +73,7 @@
 					<input type="password"> 
 				  </div>
 				  <a class="forgot" href="#">Forgot Your Password?</a>
-				  <input type="submit" value="Login">
+				  <input type="submit" value="LOGIN" onclick="alert('Coming Soon.....');">
 			    </form>
 			   </div>	
 			   <div class="clearfix"> </div>
