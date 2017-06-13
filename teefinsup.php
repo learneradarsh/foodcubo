@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Foodcubo || TeffinSupplier</title>
+<title>Foodcubo || TiffinSupplier</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="js/jquery.min.js"></script>
@@ -38,24 +38,24 @@
     	<div class="contact-section-page">
 		<div class="contact-head">
 		    <div class="container">
-				<h3>Teffin Supplier</h3>
-				<p>Home/Teffin Supplier</p>
+				<h3>Tiffin Supplier</h3>
+				<p>Home/Tiffin Supplier</p>
 			</div>
 		</div>
 		
 		<div class="contact_top">
 			 		<div class="container">
 			 			<div class="col-md-6 contact_left wow fadeInRight" data-wow-delay="0.4s">
-			 				<h4>Welcome Teffin Suppliers</h4>
+			 				<h4>Welcome Tiffin Suppliers</h4>
 			 				<p>
 			 				You can get more and more custmores from here.
 			 				</p>
 							  <form method="POST" action="includes/teffin_script.php" enctype="multipart-formdata">
 								 <div class="form_details">
-					                 <input type="text" class="text" name="name" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Name';}" required="required"/>
-									<input type="text" class="text" name="contact" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Contact No.';}" required="required"/>
-									<input type="text" class="text" name="address" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Address';}" required="required"/>
-									<input type="text" class="text" name="tefquan" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Number of Teffin Boxes you have';}" required="required"/>
+					                 <input type="text" class="text" name="name" placeholder="Name" required="required"/>
+									<input type="text" class="text" name="contact" placeholder="Contact No." required="required"/>
+									<input type="text" class="text" name="address" placeholder="Address" required="required"/>
+									<input type="text" class="text" name="tefquan" placeholder="No. of Tiffin Boxes you have" required="required"/>
 									 <div class="clearfix"> </div>
 									 <div class="sub-button wow swing animated" data-wow-delay= "0.4s">
 									 	<input name="submit" type="submit" value="SUBMIT">
