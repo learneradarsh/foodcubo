@@ -51,36 +51,34 @@
 			 				Offers Like as follows:
 			 				</h5>
 			 				<p>
-			 					<h4>Nitro Pack</h4>
+								<h4>Mini Pack</h4>
 			 					<ul type="disc">
-			 					<li>First 5 Orders For Free + Order Rate Policy*</li>
-			 					<li>Registration Fee Rs.699/-</li>
-			 					<li>Pre-Paid Registartion Fees</li>
-			 					<li>Discount on Profit Margin</li>
+			 						<li>First 5 orders free + Order Rate Policy*</li>
+			 						<li>No Registration Fees</li>
 			 					</ul>
+			 					
 			 				</p>
 			 				<p>
-			 					<h4>Mini Pack</h4>
+			 					<h4>Nitro Pack</h4>
 			 					<ul type="disc">
-			 						<li>First 15 orders free + Order Rate Policy*</li>
-			 						<li>Registration Fee Rs.399/-</li>
-			 						<li>Pre-Paid Registartion Fees</li>
+			 					<li>First 15 Orders For Free + Order Rate Policy*</li>
+								<li>Registration Fee Rs.499/-</li>
 			 					</ul>
 			 				</p>
 			 				<p>
 			 					<h4>Regular Pack</h4>
 			 					<ul type="disc">
 			 						<li>First 12 orders free + Order Rate Policy*</li>
-			 						<li>Registration Fee Rs.999/-</li>
-			 						<li>Post-Paid Registartion Fees</li>
+			 						<li>Registration Fee Rs.699/-</li>
+									<li>Discount on Profit Percentage</li>
 			 					</ul>
 			 				</p>
 			 				<p>
 			 					<h4>Hybrid Pack</h4>
 			 					<ul type="disc">
 			 						<li>First 25 orders for free + Order Rate Policy*</li>
-			 						<li>Registration Fee Rs.1999/-</li>
-			 						<li>Post-Paid Payment of Registration Fees</li>
+			 						<li>Registration Fee Rs.999/-</li>
+			 						<li>Discount on Profit Percentage</li>
 			 					</ul>
 			 				</p>
 			 				<h6>
