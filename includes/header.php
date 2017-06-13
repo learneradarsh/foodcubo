@@ -40,9 +40,10 @@
 				</div>
 				<div class="login-section">
 					<ul>
-						<li><a href="login.php">Login</a>  </li> |
 						<li><a href="restaurants_reg.php">Register As a Restaurant</a> </li> |
 						<li><a href="register.php">Register As a User</a> </li> |
+						<li><a href="teefinsup.php">Register As a Teffin Supplier</a> </li> |
+						<li><a href="login.php">Login</a>  </li> |
 						<div class="clearfix"></div>
 					</ul>
 				</div>
