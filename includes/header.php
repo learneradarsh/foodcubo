@@ -1,11 +1,22 @@
+ <style>
+      .location {
+        height: 30px;
+        padding-left: 10px;
+        border-radius: 4px;
+        border: 1px solid rgb(186, 178, 178);
+        box-shadow: 0px 0px 12px #EFEFEF;
+      }
+    </style>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDAZN7ERsvhNWJjO4AWv6vILYD0ULoNl1Y=places"></script>
 <!-- header-section-starts -->
 	<div class="header">
 		<div class="container">
 			<div class="top-header">
 
 				<div class="logo">
-					<a href="index.php"><center><a href="index.php"><img src="images/food.png" style="width: 120px; height: 70px; position: absolute; left: 0px; top: 20px;" alt=""></a>&nbsp;&nbsp;<h1>Foodcubo</h1></center></a>
-					<p class="text-center"><center><h5>&nbsp;&nbsp;&nbsp;&nbsp;Experience yourself inside a Cube of Food!</h5></center></p>
+					<a href="index.php"><center><h1>Food<a href="index.php"><img src="images/food.png" style="width: 120px; height: 70px; position: relative; left: 0px; top: 5px;" alt="">ubo</a></h1></center></a>
+					<p class="text-center"><center>
+					<h5 style="margin-top: 20px;">Experience yourself inside a Cube of Food!</h5></center></p>
 
 				</div>
 				
@@ -63,13 +74,13 @@
 						<form>
 						  <ul class="navmain">
 							<li><span>Location Name</span>
-							 <input type="text" class="text" value="Secunderabad" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Secunderabad';}">
+							 <input type="text" class="text" value="" onfocus="this.value = '';" id="autocomplete" class="location">
 							</li>
 							<li><span>Restaurant Name</span>
-							 <input type="text" class="text" value="Swagath Grand" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Swagath Grand';}">
+							 <input type="text" class="text" value="Swagath Grand">
 							</li>
 							<li><span>Cuisine Name</span>
-							 <input type="text" class="text" value="Chicken Biriyani" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Chicken Biriyani';}">
+							 <input type="text" class="text" value="Chicken Biriyani">
 						    </li>
 						  </ul>
 						</form>
@@ -94,6 +105,10 @@
 	            $('.main-search').hide();
 	        });
 	    </script>
+	    <script>
+      var input = document.getElementById('autocomplete');
+      var autocomplete = new google.maps.places.Autocomplete(input);
+    </script>
 					
 				</div>
 			</div>
