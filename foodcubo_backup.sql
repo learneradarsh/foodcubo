@@ -25,7 +25,7 @@ DROP TABLE IF EXISTS `bookus`;
 CREATE TABLE `bookus` (
   `name` varchar(200) NOT NULL,
   `bookid` int(10) NOT NULL AUTO_INCREMENT,
-  `booktpe` varchar(200) NOT NULL,
+  `booktype` varchar(200) NOT NULL,
   `contact` varchar(12) NOT NULL,
   `budget` int(10) NOT NULL,
   PRIMARY KEY (`bookid`)
@@ -49,6 +49,7 @@ DROP TABLE IF EXISTS `contact_us`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `contact_us` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
   `name` varchar(200) NOT NULL,
   `email` varchar(200) NOT NULL,
   `subject` varchar(500) NOT NULL,
@@ -102,6 +103,7 @@ DROP TABLE IF EXISTS `job_app`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `job_app` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
   `name` varchar(200) NOT NULL,
   `email` varchar(200) NOT NULL,
   `link_to_resume` varchar(200) NOT NULL,

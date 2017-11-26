@@ -73,7 +73,7 @@
 							     		<h3>Contact Info</h3>
 			      						<address>
 											 <p>Email :<a href="mailto:info@example.com">foodcuboofficial@gmail.com</a></p>
-											 <p>Phone : 7903165083</p>
+											 <p>Phone : 9430256286</p>
 									   		<p>146 Harijan Colony Grand Appartment Nehar Nagar	</p>
 									   		<p>Boring Road Patna</p>
 									   		<p>Pincde - 8000001</p>

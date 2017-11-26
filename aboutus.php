@@ -42,10 +42,15 @@
 				<p>Home/AboutUs</p>
 			</div>
 		</div>
-		
-		
+		      <div class="container" style="margin-top: 50px;font-size: 20px;">
+            <p>
+              <a hre="http://foodcubo.com">Food Cubo LLP</a> is India’s one of the most promising food delivery portal.
+This company was started by Rohit Kashyap, Adarsh Pandey and Shanu Kumar originating from the city of Patna and have a rage to spread its services all over India. Food Cubo focuses on bringing down the cost and the ease of online food ordering to the fingertips of its customers and would be soon revolutionizing the food industry.
+            </p>  
+          </div>
+		  
 			 		<div class="container" style="margin-top: 50px;">
-			 			
+			 			<center><h1 style="margin-bottom: 8px;">Our Team</h1></center>
 			 			<div class="row">
        <div class="col-md-4 thumbnail">
          <img class="img-circle" src="images/shanu.jpg" alt="Generic placeholder image" width="140" height="110" style="margin-top: 28px">
