@@ -102,7 +102,6 @@ DROP TABLE IF EXISTS `job_app`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `job_app` (
-  `id` int(10) NOT NULL AUTO_INCREMENT,
   `name` varchar(200) NOT NULL,
   `email` varchar(200) NOT NULL,
   `link_to_resume` varchar(200) NOT NULL,
